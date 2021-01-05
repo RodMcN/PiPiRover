@@ -1,0 +1,15 @@
+{
+    "motors": {
+      "left_forward": 11,
+      "left_reverse": 13,
+      "left_power": 31,
+      "right_forward": 15,
+      "right_reverse": 16,
+      "right_power": 32 
+    },
+    "sensors": {
+      "DHT_data": 26,
+      "radio_data": 6,
+      "MQ2_data": 5
+    }
+  }
